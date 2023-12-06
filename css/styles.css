@@ -231,8 +231,8 @@ main {
         width: 100%
     }
 
-    a {
-        padding: 6px 100px;
+    .g-nav-link {
+        padding: 6px 60px;
     }
 
     /* --------------------------------------------------- page / section styling */
@@ -280,6 +280,11 @@ main {
     #p-samples-webApp #s-samples .dice-img {
         width: 300px;
         height: 106px;
+    }
+
+    #p-samples-webApp #s-samples .skeleton-img {
+        width: 300px;
+        height: 220px;
     }
 
     #p-home #s-content .me-img {
