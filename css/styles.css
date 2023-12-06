@@ -202,6 +202,10 @@ main {
 
 #p-samples-webApp #s-samples .single-container img {
     margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+#p-samples-webApp #s-samples .single-container a {
     margin-bottom: 30px;
 }
 
@@ -256,7 +260,7 @@ main {
     #p-samples-webApp #s-samples .single-container {
         gap: 0px;
         flex-direction: column;
-        flex-wrap: none;
+        flex-wrap: nowrap;
     }
 
     #p-samples-webApp #s-samples .single-container div {
