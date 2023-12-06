@@ -216,8 +216,8 @@ main {
     margin-bottom: 30px;
 }
 
-@media screen and (max-width: 900px) {
-    #p-home #s-content {
+@media screen and (max-width: 950px) {
+    #p-home .g-background {
         grid-template-columns: auto;
         grid-template-areas: 
         "head"
@@ -247,7 +247,6 @@ main {
     }
 
     /* --------------------------------------------------- page / section styling */
-
 
     #p-samples-other #s-samples .codeflex-img {
         width: 250px;
