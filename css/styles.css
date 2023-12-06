@@ -231,7 +231,7 @@ main {
         width: 100%
     }
 
-    a {
+    .g-nav-link {
         padding: 6px 100px;
     }
 
